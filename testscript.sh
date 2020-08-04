@@ -2,4 +2,4 @@
 echo "This is test file from git"
 NUM=$(($FIRSTNUM + $SECONDNUM))
 echo "$NUM"
-echo "This testing is completed and you are making progress"
+echo "This testing is complete"
